@@ -247,6 +247,19 @@ terser:
     drop_console: true
 
 # -----------------------------------------------------------------------------
+# Table of Contents
+# -----------------------------------------------------------------------------
+
+toc:
+  min_level: 1
+  max_level: 3
+  ordered_list: false
+  no_toc_section_class: no_toc_section
+  list_class: section-nav
+  item_class: toc-entry
+  item_prefix: toc-
+
+# -----------------------------------------------------------------------------
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
