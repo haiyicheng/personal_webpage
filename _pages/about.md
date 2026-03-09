@@ -37,4 +37,4 @@ I hold a B.A. (Hons) in Politics, Economics, and Philosophy from [Renmin Univers
 
 My research interests lie at the intersection of **social stratification**, **health disparities**, **comparative historical analysis**, and the **life course**. I am primarily interested in how categorical distinctions structure and reproduce inequalities across populations. Specifically, I focus on the role of state classifications in structuring mobility, resource access, and life chances, and on how social and institutional environments are embedded in health outcomes to produce cumulative disparities.
 
-My work has been published in *Social Science & Medicine* and presented at the annual meetings of the Population Association of America, the American Sociological Association, the British Sociological Association, and the East Asian Anthropological Association.
+My work has been published in _Social Science & Medicine_ and presented at the annual meetings of the Population Association of America, the American Sociological Association, the British Sociological Association, and the East Asian Anthropological Association.
