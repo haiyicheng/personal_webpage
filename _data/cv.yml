@@ -1,189 +1,248 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Haiyi Cheng
+  label: Ph.D. Student in Sociology
+  email: haiyicheng@unc.edu
+  location: Chapel Hill, NC
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Incoming Ph.D. student in Sociology at the University of Virginia. Research interests in social stratification, health disparities, comparative historical analysis, and the life course.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: haiyicheng
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 123 W Franklin St
+    city: Chapel Hill
+    region: North Carolina
+    postalCode: NC 27516
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Virginia
+        location: Charlottesville, VA
+        url: https://sociology.as.virginia.edu/
+        area: Sociology
+        studyType: Ph.D.
+        start_date: 2026
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - Starting Fall 2026.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of North Carolina at Chapel Hill
+        location: Chapel Hill, NC
+        url: https://ed.unc.edu/academics/meite/
+        area: Educational Innovation, Technology, and Entrepreneurship
+        studyType: M.A.
+        start_date: 2024
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Relevant Coursework: Life Course and Aging; Health and Developmental Trajectories from Adolescence to Adulthood; Migration and Population Distribution."
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        url: https://www.berkeley.edu/
+        area: Summer Exchange Student
+        studyType: Exchange
+        start_date: 2023
+        end_date: 2023
+        highlights:
+          - "Relevant Coursework: Sociology of Education; Politics and Social Change."
+
+      - institution: Renmin University of China
+        location: Beijing, China
+        url: https://www.ruc.edu.cn/en
+        area: Politics, Economics, and Philosophy
+        studyType: B.A. (Hons)
+        start_date: 2020
+        end_date: 2024
+        highlights:
+          - "Relevant Coursework: Contemporary Western Sociology; Categorical Data Analysis; Econometrics; Probability Theory and Mathematical Statistics; Social Science Research Methods."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Carolina Population Center, UNC-Chapel Hill
+        position: "Research Assistant (Supervisor: Prof. Manuel Schechtl)"
+        location: Chapel Hill, NC
+        start_date: 2025
+        end_date: present
+        summary: "Wealth Poverty: Measurement, Prevalence, Determinants; Financial Assets and Health Outcome in Early Adulthood Using Add Health."
         highlights:
-          - Relativity
-          - Description 2.
+          - Conducted literature review on asset poverty, wealth insufficiency, and their determinants for an invited Annual Review of Sociology article.
+          - Constructed cardiometabolic risk indices and mediating variable indices including stressful life events, health behaviors, and neighborhood disadvantage using Stata and R.
+          - Employed Poisson regression and generalized structural equation modeling (GSEM) to explore potential mediation pathways linking financial assets to cardiometabolic outcomes.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: The Harvard Academy for International and Area Studies, Harvard University
+        position: "Research Assistant (Supervisor: Dr. Fumiya Uchikoshi)"
+        location: Cambridge, MA
+        start_date: 2024
+        end_date: 2025
+        summary: Gender Disparities in Grade Retention Among Asian Americans.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Processed ACS microdata (2008-2023), implementing sibling fixed effects models to examine three-way interactions between gender, race/ethnicity, and family structure.
+          - Applied linear probability models with household-clustered standard errors to analyze grade retention patterns across Asian ethnic subgroups.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Center for Right-Wing Studies, UC Berkeley
+        position: "Independent Studies (Supervisor: Prof. Cihan Tugal)"
+        location: Berkeley, CA
+        start_date: 2024
+        end_date: 2024
+        summary: Ideological Coherence and Political Identity of Chinese Immigrants.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Conducted discourse analysis of comments on WeChat forums to examine ideological alignments around anti-communism, meritocracy, and Christian nationalism.
+          - Coded deidentified interview transcripts and ethnography notes from Chinese Christian churches conducted by team members.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Center for Population and Development Studies, Renmin University of China
+        position: "Research Assistant (Supervisor: Prof. Long Li)"
+        location: Beijing, China
+        start_date: 2023
+        end_date: present
+        summary: Sleep Patterns and Mental Health Among Adolescents in China; Internet Usage and Mental Health Among Older Adults in China.
+        highlights:
+          - Coded CEPS data (2013-2020) across five waves using Stata and R, examining bidirectional relationships between sleep patterns and depression symptoms among Chinese adolescents.
+          - Applied latent change score models (LCSM) to investigate how educational trajectories moderate the sleep-depression relationship over adolescent development.
+          - Applied confirmatory latent class analysis to distinguish pressured Internet use from voluntary Internet use patterns among older adults.
+          - Employed structural equation modelling (SEM) to examine differential associations between Internet use types and mental health.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: School of International Studies, Renmin University of China
+        position: "Independent Studies (Supervisor: Prof. Shi Li)"
+        location: Beijing, China
+        start_date: 2022
+        end_date: 2023
+        summary: The Ban of After-School Tutoring and Educational Inequality.
+        highlights:
+          - Conducted semi-structured interviews with teachers, parents, and students to assess perceptions of China's ban of after-school tutoring on educational equity in Beijing.
+          - Utilized Qualtrics to administer questionnaires in Beijing high schools to examine household education expenditure patterns.
+
+      - company: School of Journalism and Communication, Renmin University of China
+        position: "Independent Studies (Supervisor: Prof. Tianping He)"
+        location: Beijing, China
+        start_date: 2022
+        end_date: 2022
+        summary: The Interaction between Vtubers (Virtual Idols) and Their Fans.
+        highlights:
+          - Conducted 26 semi-structured interviews with Vtuber fans to examine three types of fan-idol interactions.
+          - Applied grounded theory and discourse analysis to identify how fans, performers, and agencies compete for interpretive control over virtual idol images.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Haiyi Cheng
+          - Manuel Schechtl
+        publisher: Social Science & Medicine
+        releaseDate: 2026
+        url: https://doi.org/10.1016/j.socscimed.2026.119006
+        summary: Published in Social Science & Medicine, Volume 396, 2026.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+    Awards:
+      - title: MEITE Student Academic Travel Fellowship
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - "UNC-Chapel Hill"
+        date: 2025
+        awarder: UNC-Chapel Hill
+        summary: "$1,000 travel fellowship."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Center for Right-Wing Studies Mini-Grant
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "UC Berkeley"
+        date: 2025
+        awarder: UC Berkeley
+        summary: "$500 research mini-grant."
+
+      - title: Graduate Student Transportation Grant
+        authors:
+          - "UNC-Chapel Hill"
+        date: 2025
+        awarder: UNC-Chapel Hill
+        summary: "Approx. $300."
+
+      - title: School of Education Student Travel Award
+        authors:
+          - "UNC-Chapel Hill"
+        date: 2025
+        awarder: UNC-Chapel Hill
+        summary: "$500 travel award."
+
+      - title: Renmin University of China Distinguished Graduates
+        authors:
+          - "Renmin University of China"
+        date: 2024
+        awarder: Renmin University of China
+        summary: Awarded to outstanding graduating students.
+
+      - title: Student Forum Travel Award, ASA Annual Meeting
+        authors:
+          - "American Sociological Association"
+        date: 2023
+        awarder: American Sociological Association
+        summary: "Approx. $400."
+
+      - title: ICBC Innovation Excellence Scholarship
+        authors:
+          - "Renmin University of China"
+        date: 2023
+        awarder: Renmin University of China
+        summary: "Approx. $700."
+
+      - title: Bursary Funding, BSA WES Conference 2023
+        authors:
+          - "British Sociological Association"
+        date: 2023
+        awarder: British Sociological Association
+        summary: "Approx. $150."
+
+      - title: Outstanding Winner of Undergraduate Research Award Competition
+        authors:
+          - "Renmin University of China"
+        date: 2022
+        awarder: Renmin University of China
+        summary: Awarded for outstanding undergraduate research.
+
+      - title: National College Student Research Innovation Fellowship
+        authors:
+          - "Renmin University of China"
+        date: 2022
+        awarder: Renmin University of China
+        summary: "Approx. $1,400."
+
+      - title: Linghui Essay Award for Ethics Studies
+        authors:
+          - "Renmin University of China"
+        date: 2021
+        awarder: Renmin University of China
+        summary: "Approx. $700."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Statistical Software
+        level: Proficient
+        icon: fa-solid fa-laptop-code
+        keywords: "Stata, R, SPSS"
+
+      - name: Design & Visualization
+        level: Proficient
+        icon: fa-solid fa-palette
+        keywords: "Figma, Adobe Photoshop, Adobe InDesign"
 
     Languages:
-      - name: German
+      - name: Chinese (Mandarin)
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Research Interests
+        icon: fa-solid fa-book
+        keywords: "Social Stratification, Comparative Historical Analysis, Life Course, Health Disparities"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    Volunteer:
+      - company: Youth Volunteers Association, Renmin University of China
+        position: Student Assistant in the University Library
+        location: Beijing, China
+        start_date: 2022
+        end_date: 2023
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - company: Youth RUC Newspaper, Renmin University of China
+        position: Vice Head of the Commentary Department
+        location: Beijing, China
+        start_date: 2020
+        end_date: 2022
